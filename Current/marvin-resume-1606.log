@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (prel
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**marvin-resume-1106.tex
-(./marvin-resume-1106.tex
+**marvin-resume-1606.tex
+(./marvin-resume-1606.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -261,8 +261,8 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box54
 )
-(./marvin-resume-1106.aux)
-\openout1 = `marvin-resume-1106.aux'.
+(./marvin-resume-1606.aux)
+\openout1 = `marvin-resume-1606.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
@@ -318,9 +318,9 @@ LaTeX Font Info:    ... okay on input line 25.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 25.
-(./marvin-resume-1106.out) (./marvin-resume-1106.out)
+(./marvin-resume-1606.out) (./marvin-resume-1606.out)
 \@outlinefile=\write3
-\openout3 = `marvin-resume-1106.out'.
+\openout3 = `marvin-resume-1606.out'.
 
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
 5.
@@ -333,18 +333,18 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
-(./marvin-resume-1106.aux)
+(./marvin-resume-1606.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `marvin-resume-1106.out' has not changed.
+Package rerunfilecheck Info: File `marvin-resume-1606.out' has not changed.
 (rerunfilecheck)             Checksum: A094B383F7ADBCA0205617725838EB76;609.
  ) 
 Here is how much of TeX's memory you used:
  9073 strings out of 475178
  141095 string characters out of 5766539
- 555257 words of memory out of 5000000
+ 554257 words of memory out of 5000000
  31992 multiletter control sequences out of 15000+600000
  582223 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -352,7 +352,7 @@ Here is how much of TeX's memory you used:
 </usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb>
-Output written on marvin-resume-1106.pdf (1 page, 120474 bytes).
+Output written on marvin-resume-1606.pdf (1 page, 120437 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
